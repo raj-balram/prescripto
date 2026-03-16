@@ -15,7 +15,13 @@ connectCloudinary()
 
 // middlewares
 app.use(express.json())
-app.use(cors())
+app.use(cors({
+  origin: [
+    "https://prescripto-weld-one.vercel.app",
+    "https://prescripto-kjdg.vercel.app"
+  ],
+  credentials: true
+}))
 
 // api endpoints
 app.use('/api/admin',adminRouter)
