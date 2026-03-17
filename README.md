@@ -154,6 +154,20 @@ prescripto/
 ![Admin Dashboard](./screenshots/Admin-dashboard.png)
 
 ---
+## 🔑 Demo Credentials
+
+### User
+Email: user@test.com  
+Password: 123456  
+
+### Doctor
+Email: doctor@test.com  
+Password: 123456  
+
+### Admin
+Email: admin@test.com  
+Password: 123456  
+
 
 ## 🛠️ Installation & Setup
 
