@@ -138,12 +138,20 @@ prescripto/
 
 ## 📸 Screenshots
 
-> 💡 Add screenshots here to boost visual appeal  
-Example:
-```
-![Home Page](./screenshots/home.png)
-![Dashboard](./screenshots/dashboard.png)
-```
+### 🏠 Home Page
+![Home Page](./screenshots/Home.png)
+
+### 👨‍⚕️ All Doctors
+![All Doctors](./screenshots/All-doctors.png)
+
+### 📅 Book Appointment
+![Book Appointment](./screenshots/Book-appointment.png)
+
+### 👨‍⚕️ Doctor Dashboard
+![Doctor Dashboard](./screenshots/Doctor-dashboard.png)
+
+### 🛡️ Admin Dashboard
+![Admin Dashboard](./screenshots/Admin-dashboard.png)
 
 ---
 
